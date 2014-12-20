@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Things</string>
+    <string name="title_activity_iot_splash_screen">IOT Scanner</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_go">Go</string>
+    <string name="action_server">Talk To Server</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="qr_val">Go to the options menu and click "GO" to scan a QR code</string>
+    <string name="qr_val_id">qrvaltextfield</string>
+    <string name="image_view_id">imageviewfield</string>
+
+</resources>
